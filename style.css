@@ -1,0 +1,81 @@
+.overlap
+{
+    background-color: rgb(240, 240, 157);
+    background: linear-gradient( to bottom,rgb(240, 240, 157),transparent 80% );
+}
+.img
+{
+    background-image: url("WhatsApp Image 2025-08-12 at 9.24.12 PM.jpeg");
+    border-radius: 50%;
+    background-size: cover;
+    height: 200px;
+    width:200px;
+    background-position: center;
+}
+.line
+{
+    height: 6px;
+    border-radius: 15%;
+    width: 1280px;
+    background-color: black;
+   margin-left: 250px;
+
+}
+.name
+{
+    font-size: 50px;
+    font-weight: 700;
+    margin-left: 1200px;
+    margin-top: -70px;
+}
+.h
+{
+    margin-top: 90px;
+    font-size: 40px;
+    font-weight: 550;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 25px;
+    background-color: rgb(240, 240, 157);
+    background: linear-gradient( 35deg,rgb(240, 240, 157),transparent 80% );
+    width: 400px;
+    border-radius: 7%;
+}
+.info,.aboutme,.education,.skills
+{
+  margin-left: 25px;
+}
+
+.info p{
+    color: rgb(84, 187, 173);
+     margin-left: 15px;
+}
+    .conts
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-left: 280px;
+     margin-top: 22px;
+     height: 20px;
+     width: 70%;
+    }
+.cont
+{
+   display: flex;
+     height: 2px;
+    width:2px;
+}
+    
+.aboutme p,.kk,.edu
+{
+        font-size: 25px;
+        margin-left: 270px;
+
+    }
+    footer
+    {
+        width:100% ;
+        background-color: rgb(240, 240, 157);
+        background: linear-gradient( to top,rgb(240, 240, 157),transparent 80% );
+        height: 100px;
+    }
